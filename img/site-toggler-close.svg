@@ -1,0 +1,11 @@
+<svg width="14.849121" height="14.849243" viewBox="0 0 14.8491 14.8492" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<mask id="mask_0_1837" fill="white">
+		<path id="site-toggler-close" d="M7.4248 5.3033L2.12109 0L0 2.12132L5.30322 7.42462L0 12.7279L2.12109 14.8492L7.4248 9.54594L12.728 14.8492L14.8491 12.7279L9.5459 7.42462L14.8491 2.12132L12.728 0L7.4248 5.3033Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<path id="site-toggler-close" d="M7.4248 5.3033L2.12109 0L0 2.12132L5.30322 7.42462L0 12.7279L2.12109 14.8492L7.4248 9.54594L12.728 14.8492L14.8491 12.7279L9.5459 7.42462L14.8491 2.12132L12.728 0L7.4248 5.3033Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_0_1837)"/>
+	<path id="site-toggler-close" d="" fill="#979797" fill-opacity="0.000000" fill-rule="nonzero"/>
+</svg>
